@@ -104,5 +104,5 @@ deploy:
   type: git
   repo: https://github.com/chienyujen/webpage/
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: main
+  branch: gh-pages
   message: 'update'
