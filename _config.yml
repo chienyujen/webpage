@@ -106,16 +106,3 @@ deploy:
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
   message: 'update'
-
-# browser_auto_reloader
-# browser_reloader_websocket:
-#   enable: true
-#   server:
-#     port: 4001
-#   notification:
-#     message: "reloadBrowser"
-#     wait:
-#       min: 150 # ms
-#       autoCalc:
-#         enable: true
-#         coefficient: 1.0
