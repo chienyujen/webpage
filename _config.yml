@@ -13,7 +13,7 @@ timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://chienyujen.github.io/webpage/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,3 +106,16 @@ deploy:
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
   message: 'update'
+
+# browser_auto_reloader
+# browser_reloader_websocket:
+#   enable: true
+#   server:
+#     port: 4001
+#   notification:
+#     message: "reloadBrowser"
+#     wait:
+#       min: 150 # ms
+#       autoCalc:
+#         enable: true
+#         coefficient: 1.0
