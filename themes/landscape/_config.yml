@@ -1,7 +1,7 @@
 # Header
 menu:
   首頁: /
-  Blog: /archives
+  Blog: /blog
   關於我: /about
 rss: /atom.xml
 banner: "images/banner.jpg"

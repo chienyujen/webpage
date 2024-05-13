@@ -1,6 +1,7 @@
 ---
 title: about
 date: 2024-05-06 17:11:51
+fullPage: true
 ---
 
 ## 老安
